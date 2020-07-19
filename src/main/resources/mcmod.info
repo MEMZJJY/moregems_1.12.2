@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moregems",
+  "name": "More gems",
+  "description": More gems,
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MEMZJJY"],
+  "credits": "咕咕咕",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
